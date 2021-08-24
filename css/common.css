@@ -116,12 +116,13 @@ header > .inner {
   height: 120px;
 }
 header .logo{
-  height:37px;
+  height: 75px;
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom:0;
   left: 0;
   margin: auto;
+
 }
 header .sub-menu{
   display: flex;
@@ -204,8 +205,7 @@ header .main-menu .item{
 header .main-menu .item .item__name{
   padding: 10px 20px 34px 20px;
   font-family: Arial, sans-serif;
-  font-size: 16px;
-  font-weight: 700;
+  font-size: 13px;
 }
 header .main-menu .item:hover .item__name{
   background-color: #2c2a29;
