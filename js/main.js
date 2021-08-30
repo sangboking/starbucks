@@ -42,7 +42,7 @@ fadeEls.forEach(function(fadeEl, index){
 });
 
 // new Swiper(선택자,옵션)
-new Swiper('.notice-line .swiper-container', {
+new Swiper('.notice-line .swiper', {
   direction: 'vertical',
   autoplay: true,
   loop: true
